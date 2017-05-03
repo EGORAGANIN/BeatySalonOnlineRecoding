@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BeatySalon</string>
+    <string name="dayOff">Выходной</string>
+    <string name="workingNo">Рабочий, записи нет</string>
+    <string name="workingYes">Рабочий, запись есть</string>
+    <string name="selectService">Выбрать услугу</string>
+    <string name="category">Категории услуг</string>
+    <string name="childTitle">childTitle</string>
+    <string name="price">price</string>
+    <string name="nameStaff">Имя мастера</string>
+    <string name="posStaff">Должность мастера</string>
+</resources>
